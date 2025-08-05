@@ -13,13 +13,6 @@
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,js,cpp,mongodb,solidity,tailwind,html,css,git)
 
----
-
-### 📊 GitHub Stats
-![Adhishthatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhishthatri&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhishthatri&layout=compact&theme=default)
-
----
 
 ### 🧩 Fun Fact
 > *“Consistency beats intensity. Build daily.”*
